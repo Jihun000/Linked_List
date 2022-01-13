@@ -1,3 +1,4 @@
+// 수정 22. 01. 13
 #pragma once
 #include <stdio.h>
 #include <stdlib.h>
